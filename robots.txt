@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amitderi.github.io/HighlightForge_website/sitemap.xml

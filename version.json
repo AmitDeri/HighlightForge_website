@@ -1,0 +1,14 @@
+{
+ "latest": "1.2.0",
+ "download_url": "https://amitderi.itch.io/highlightforge",
+ "notes": [
+  "Getting started guide on Home for new users: sign in, add the free Gemini key, pick a look, make the first video.",
+  "Your recording comes first on Home (\"Choose video file\"), with the link box second.",
+  "Update the YouTube downloader in one click (banner, Settings → About, or on a failed download): the usual fix when YouTube changes something, no reinstall needed.",
+  "Send a report (Settings → Help, or on a failed video): shows exactly what's sent (the recent log and setup check, with your user name, e-mails and keys hidden) and gives you a reference number.",
+  "Settings → About: links to the privacy notice, terms, refund policy, support e-mail and the licences.",
+  "Free plan + Premium subscription instead of the trial and license keys.",
+  "Out of free videos? The app says so before the long analysis starts, not after.",
+  "Settings → Account: plan, videos left, Go Premium, Manage subscription, Sign out."
+ ]
+}
