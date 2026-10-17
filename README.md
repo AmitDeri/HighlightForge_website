@@ -3,13 +3,13 @@
 The official website of **HighlightForge**, the Windows app that turns a finished League of Legends or TFT stream
 into a ready-to-upload YouTube highlight video.
 
-**Live:** https://amitderi.github.io/HighlightForge_website/
+**Live:** https://highlightforge.app/
 
-Pages: home, [about](https://amitderi.github.io/HighlightForge_website/about),
-[privacy](https://amitderi.github.io/HighlightForge_website/privacy),
-[terms](https://amitderi.github.io/HighlightForge_website/terms),
-[refunds](https://amitderi.github.io/HighlightForge_website/refunds),
-[support](https://amitderi.github.io/HighlightForge_website/support), and `version.json` (the app's update check).
+Pages: home, [about](https://highlightforge.app/about),
+[privacy](https://highlightforge.app/privacy),
+[terms](https://highlightforge.app/terms),
+[refunds](https://highlightforge.app/refunds),
+[support](https://highlightforge.app/support), and `version.json` (the app's update check).
 
 These files are generated. Don't edit them here: the source lives in the app's repository (`website/`,
 `docs/PRIVACY.md`, `LICENSE`) and is built with `tools/build_site.py --out <this folder>`.
